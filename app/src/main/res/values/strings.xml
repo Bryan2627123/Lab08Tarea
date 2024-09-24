@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab08Tarea</string>
+    <string name="channel_name">Task Reminder Channel</string>
+    <string name="channel_description">Channel for task reminders</string>
+</resources>
